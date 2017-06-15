@@ -7,4 +7,6 @@ php:
         options:
             extensions:
                 - php-mysql
+                - php-mbstring
+                - php-dom
     composer: true
